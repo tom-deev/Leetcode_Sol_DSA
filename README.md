@@ -16,4 +16,8 @@ This is just a leetcode solution repo for track and practice in DSA
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0412-fizz-buzz) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
