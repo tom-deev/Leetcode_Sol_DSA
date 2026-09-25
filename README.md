@@ -43,6 +43,7 @@ This is just a leetcode solution repo for track and practice in DSA
 | [1211-queries-quality-and-percentage](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1280-students-and-examinations) |
+| [1321-restaurant-growth](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1341-movie-rating) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
