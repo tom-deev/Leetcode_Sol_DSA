@@ -6,6 +6,7 @@ This is just a leetcode solution repo for track and practice in DSA
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
