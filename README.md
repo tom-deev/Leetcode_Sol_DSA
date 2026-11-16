@@ -8,6 +8,7 @@ This is just a leetcode solution repo for track and practice in DSA
 | ------- |
 | [0009-palindrome-number](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0009-palindrome-number) |
 | [0412-fizz-buzz](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0509-fibonacci-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## String
 |  |
@@ -70,4 +71,16 @@ This is just a leetcode solution repo for track and practice in DSA
 | [1934-confirmation-rate](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1934-confirmation-rate) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/tom-deev/Leetcode_Sol_DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
